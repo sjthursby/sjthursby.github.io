@@ -1,0 +1,230 @@
+# Site
+repository: sjthursby/sjthursby.github.io
+favicon: images/favicon.ico
+
+# Content configuration version
+version: 2
+
+# Personal info
+name: Sara-Jayne Thursby
+title: Post-doctoral Fellow in Computational Epigenetics
+email: sjthursby94@gmail.com
+website: www.github.com/sjthursby/sjthursby.guthub.io
+
+# Dark Mode (true/false/never)
+darkmode: false
+
+# Social links
+#twitter_username: facespics
+github_username:  sjthursby
+# stackoverflow_username: "00000001"
+# dribbble_username: jekyll
+# facebook_username: jekyll
+# flickr_username: jekyll
+#instagram_username: jameswgrant
+linkedin_username: sara-jayne-thursby
+# xing_username: jekyll
+# pinterest_username: jekyll
+#youtube_username: globalmtb
+# googleplus_username: +jekyll
+orcid_username: 0009-0001-6533-2415
+
+# Additional icon links
+additional_links:
+  - title: CV (PDF)
+    icon: fas fa-file-pdf
+    url: /cv/Thursby_CV.pdf
+    
+# - title: another link
+#   icon: font awesome brand icon name (eg. fab fa-twitter) (https://fontawesome.com/icons?d=gallery&m=free)
+#   url: Link url (eg. https://google.com)
+
+# Google Analytics and Tag Manager
+# Using more than one of these may cause issues with reporting
+# gtm: "GTM-0000000"
+# gtag: "UA-00000000-0"
+# google_analytics: "UA-00000000-0"
+
+# About Section
+# about_title: About Me
+about_profile_image: images/profile.jpg
+about_content: | # this will include new lines to allow paragraphs
+  I’m Sara-Jayne Thursby, PhD, a lead bioinformatician and postdoctoral fellow working at the intersection of epigenomics, biostatistics, and computational oncology. My research focuses on DNA methylation, multi-omics integration, and early cancer detection, with experience spanning organoid models, machine learning and cfDNA biomarker development. I enjoy turning complex biological data into clear, useful insights and have developed published tools for methylation analysis, led collaborative projects from data processing through interpretation, and helped solve difficult computational and infrastructure challenges along the way. I’m especially interested in work that brings computation and biology together to make research more translational and impactful.
+
+ - title: Technical Skills
+    layout: list
+    content:
+      - layout: left
+        title: Bioinformatics and Computational Expertise
+        description: |
+          <table style="width:100%; border-collapse:collapse;">
+            <tr>
+              <td style="width:50%; padding:0.3rem 1.5rem 0.3rem 0; vertical-align:top;">&bull; Whole-genome bisulfite sequencing (WGBS)</td>
+              <td style="width:50%; padding:0.3rem 0; vertical-align:top;">&bull; Bash</td>
+            </tr>
+            <tr>
+              <td style="padding:0.3rem 1.5rem 0.3rem 0; vertical-align:top;">&bull; Single-cell RNA-seq</td>
+              <td style="padding:0.3rem 0; vertical-align:top;">&bull; Python</td>
+            </tr>
+            <tr>
+              <td style="padding:0.3rem 1.5rem 0.3rem 0; vertical-align:top;">&bull; Bulk RNA-seq</td>
+              <td style="padding:0.3rem 0; vertical-align:top;">&bull; Java</td>
+            </tr>
+            <tr>
+              <td style="padding:0.3rem 1.5rem 0.3rem 0; vertical-align:top;">&bull; ChIP-seq and ATAC-seq</td>
+              <td style="padding:0.3rem 0; vertical-align:top;">&bull; HTML, PHP, and MySQL</td>
+            </tr>
+            <tr>
+              <td style="padding:0.3rem 1.5rem 0.3rem 0; vertical-align:top;">&bull; Multi-omics data integration</td>
+              <td style="padding:0.3rem 0; vertical-align:top;">&bull; R and AWS</td>
+            </tr>
+            <tr>
+              <td style="padding:0.3rem 1.5rem 0.3rem 0; vertical-align:top;">&bull; Translational bioinformatics workflows</td>
+              <td style="padding:0.3rem 0; vertical-align:top;">&bull; HPC environments using SLURM and PBS</td>
+            </tr>
+          </table>
+
+ - title: Experience # Title for the section
+    layout: list # Type of content section (list/text)
+    content:
+      - layout: left
+        title: Johns Hopkins University
+        caption: 2020 - Present
+        sub_title: Postdoctoral Fellowship
+        quote: >
+          My postdoc has focused on building and applying robust epigenomic and multi‑omics methods to turn noisy DNA methylation data into clinically useful insights for early cancer detection and tumor biology.
+        description: | # this will include new lines to allow paragraphs
+          During my postdoctoral fellowship (2020–present), I have led multi-omics and epigenomics analyses across 15+ cancer projects, co-developing the OutlierMeth R package and publishing work on CRC CIMP/CEMP subtypes, and CDX2/BRAFV600E organoid models (EPIC, ATAC-seq, ChIP-seq, RNA-seq). I created the Epigenetic Instability Index (EII; first author, patent-pending cfDNA classifier, R01 co-I) and currently serve as lead bioinformatician on two manuscripts in preparation (BRAFV600E organoid clonal evolution and EOCRC vs LOCRC field effects).
+          
+  - title: Education # Title for the section
+    layout: list # Type of content section (list/text)
+    content:
+      - layout: left
+        title: Ulster University
+        link: https://www.ulster.ac.uk/research/topic/biomedical-sciences/research/centre-for-genomic-medicine
+        # link_text: boringcompany.com
+        sub_title: PhD Researcher
+        caption: Oct. 2016 - June 2020
+        quote: >
+          Thesis: “Bioinformatic analysis of epigenetic effects, particularly changes in DNA methylation, following different interventions.”
+        description: | # this will include new lines to allow paragraphs
+            During my PhD (2016–2020), I built expertise in DNA methylation array analysis through studies in DNMT1 depletion, folic acid supplementation in pregnancy, and depression-related methylation in saliva, contributing to published work on differential methylation, immune-cell correction, enrichment analysis, and biological interpretation. I also developed CandiMeth, a Galaxy workflow that helps non-bioinformaticians explore candidate-gene methylation results without coding.
+
+  - title: Selected Publications
+    layout: list
+    content:
+      - layout: left
+        title: "Epigenetic Instability Based Metrics in Cell-Free DNA for Early Cancer Detection"
+        sub_title: "Clinical Cancer Research"
+        caption: "2026"
+        description: |
+          DOI: [10.1158/1078-0432.CCR-25-3384](https://doi.org/10.1158/1078-0432.CCR-25-3384) · PMID: [41591979](https://pubmed.ncbi.nlm.nih.gov/41591979/)
+
+      - layout: left
+        title: "Tissue-location-specific transcription programs drive tumor dependencies in colon cancer"
+        sub_title: "Nature Communications"
+        caption: "2024"
+        description: |
+          PMID: [38360902](https://pubmed.ncbi.nlm.nih.gov/38360902/)
+
+      - layout: left
+        title: "Detecting aberrant DNA methylation in Illumina DNA methylation arrays: a toolbox and recommendations for its use"
+        sub_title: "Epigenetics"
+        caption: "2023"
+        description: |
+          PMID: [37218167](https://pubmed.ncbi.nlm.nih.gov/37218167/)
+
+      - layout: left
+        title: "Transcription factor expression repertoire basis for epigenetic and transcriptional subtypes of colorectal cancers"
+        sub_title: "Proceedings of the National Academy of Sciences USA"
+        caption: "2023"
+        description: |
+          PMID: [37487069](https://pubmed.ncbi.nlm.nih.gov/37487069/)
+
+      - layout: left
+        title: "Full Publication List"
+        description: |
+          Additional publications are available via my [PubMed My Bibliography](https://www.ncbi.nlm.nih.gov/myncbi/sara-jayne.thursby.2/bibliography/public/).
+
+  - title: Awards, Grants & Travel Support
+  layout: list
+  content:
+    - layout: left
+      title: "AACR General Meeting Barbara Campbell Creighton Scholar-in-Training Award"
+      caption: "2026"
+      description: |
+        $1,500
+
+    - layout: left
+      title: "Johns Hopkins Office for Cancer Research Training and Education Coordination Travel Award"
+      caption: "2025"
+      description: |
+        $750
+
+    - layout: left
+      title: "AACR Scholar-in-Training Award"
+      caption: "2025"
+      description: |
+        $500
+
+    - layout: left
+      title: "Galaxy Community Fellowship Award"
+      caption: "2018"
+      description: |
+        £1,600
+
+    - layout: left
+      title: "Genetics Society Training Grant"
+      caption: "2018"
+      description: |
+        £1,000
+
+
+  - title: Selected Presentations
+    layout: list
+    content:
+      - layout: left
+        title: "AACR Annual Meeting"
+        sub_title: "Oral Presentation"
+        caption: "2026"
+        description: |
+          American Association for Cancer Research Annual Meeting.
+
+      - layout: left
+        title: "AACR DNA Methylation, Clonal Hematopoiesis and Cancer Conference"
+        sub_title: "Oral and Poster Presentation"
+        caption: "2025"
+        description: |
+          AACR Special Conference in Cancer Research.
+
+      - layout: left
+        title: "American Association for Cancer Research Annual Meeting"
+        sub_title: "Poster Presentation"
+        caption: "2024"
+
+      - layout: left
+        title: "Epigenetics in Health and Disease Workshop"
+        sub_title: "Oral Presentation"
+        caption: "2019"
+
+      - layout: left
+        title: "Galaxy Community and Open-Source Bioinformatics Conference"
+        sub_title: "Oral and Poster Presentation"
+        caption: "2018"        
+      
+    
+
+
+# Footer
+footer_show_references: true
+# references_title: References on request (Override references text)
+
+# Build settings
+remote_theme: sproogen/resume-theme
+
+sass:
+  sass_dir: _sass
+  style: compressed
+
+plugins:
+ - jekyll-seo-tag
