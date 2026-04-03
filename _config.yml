@@ -21,9 +21,9 @@ orcid_username: 0009-0001-6533-2415
 
 # Additional icon links
 additional_links:
-  - title: CV (PDF)
+  - title: CV Download (PDF)
     icon: fas fa-file-pdf
-    url: cv/Thursby_CV.pdf
+    url: https://sjthursby.github.io/cv/Thursby_CV.pdf
 
 # About Section
 about_profile_image: images/profile.jpg
@@ -133,11 +133,11 @@ content:
         </div>
       </div>
 
-      <div style="text-align:center; max-width:1000px; margin:0 auto;">
-        <div style="font-size:1.4em; font-weight:600; margin-bottom:0.55rem;">
+      <div style="text-align:center; max-width:1000px; margin:0 auto 2.1rem auto;">
+        <div style="font-size:2.05em; font-weight:700; line-height:1.2; margin-bottom:0.35rem;">
           Full Publication List
         </div>
-        <div style="font-size:1.15em; line-height:1.5;">
+        <div style="font-size:1.35em; line-height:1.5;">
           Additional publications are available via my
           <a href="https://www.ncbi.nlm.nih.gov/sites/myncbi/sara-jayne.thursby.2/public/">PubMed My Bibliography</a>.
         </div>
