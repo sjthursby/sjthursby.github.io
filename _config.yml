@@ -23,7 +23,7 @@ orcid_username: 0009-0001-6533-2415
 additional_links:
   - title: CV (PDF)
     icon: fas fa-file-pdf
-    url: /cv/Thursby_CV.pdf
+    url: cv/Thursby_CV.pdf
 
 # About Section
 about_profile_image: images/profile.jpg
