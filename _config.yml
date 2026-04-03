@@ -71,78 +71,78 @@ content:
           </table>
 
   - title: Selected Publications
-  layout: text
-  content: |
-    <div style="text-align:center; max-width:1000px; margin:0 auto 3rem auto;">
-      <div style="font-size:2.1em; font-weight:700; line-height:1.25; margin-bottom:0.45rem;">
-        Epigenetic Instability Based Metrics in Cell-Free DNA for Early Cancer Detection
+    layout: text
+    content: |
+      <div style="text-align:center; max-width:1000px; margin:0 auto 3rem auto;">
+        <div style="font-size:2.1em; font-weight:700; line-height:1.25; margin-bottom:0.45rem;">
+          Epigenetic Instability Based Metrics in Cell-Free DNA for Early Cancer Detection
+        </div>
+        <div style="font-size:1.2em; font-weight:600; margin-bottom:0.25rem;">
+          Clinical Cancer Research
+        </div>
+        <div style="font-size:1.05em; margin-bottom:0.9rem;">
+          2026
+        </div>
+        <div style="font-size:1.05em; line-height:1.6;">
+          DOI: <a href="https://doi.org/10.1158/1078-0432.CCR-25-3384">10.1158/1078-0432.CCR-25-3384</a><br>
+          PMID: <a href="https://pubmed.ncbi.nlm.nih.gov/41591979/">41591979</a>
+        </div>
       </div>
-      <div style="font-size:1.2em; font-weight:600; margin-bottom:0.25rem;">
-        Clinical Cancer Research
-      </div>
-      <div style="font-size:1.05em; margin-bottom:0.9rem;">
-        2026
-      </div>
-      <div style="font-size:1.05em; line-height:1.6;">
-        DOI: <a href="https://doi.org/10.1158/1078-0432.CCR-25-3384">10.1158/1078-0432.CCR-25-3384</a><br>
-        PMID: <a href="https://pubmed.ncbi.nlm.nih.gov/41591979/">41591979</a>
-      </div>
-    </div>
 
-    <div style="text-align:center; max-width:1000px; margin:0 auto 3rem auto;">
-      <div style="font-size:2.1em; font-weight:700; line-height:1.25; margin-bottom:0.45rem;">
-        Tissue-location-specific transcription programs drive tumor dependencies in colon cancer
+      <div style="text-align:center; max-width:1000px; margin:0 auto 3rem auto;">
+        <div style="font-size:2.1em; font-weight:700; line-height:1.25; margin-bottom:0.45rem;">
+          Tissue-location-specific transcription programs drive tumor dependencies in colon cancer
+        </div>
+        <div style="font-size:1.2em; font-weight:600; margin-bottom:0.25rem;">
+          Nature Communications
+        </div>
+        <div style="font-size:1.05em; margin-bottom:0.9rem;">
+          2024
+        </div>
+        <div style="font-size:1.05em; line-height:1.6;">
+          PMID: <a href="https://pubmed.ncbi.nlm.nih.gov/38360902/">38360902</a>
+        </div>
       </div>
-      <div style="font-size:1.2em; font-weight:600; margin-bottom:0.25rem;">
-        Nature Communications
-      </div>
-      <div style="font-size:1.05em; margin-bottom:0.9rem;">
-        2024
-      </div>
-      <div style="font-size:1.05em; line-height:1.6;">
-        PMID: <a href="https://pubmed.ncbi.nlm.nih.gov/38360902/">38360902</a>
-      </div>
-    </div>
 
-    <div style="text-align:center; max-width:1000px; margin:0 auto 3rem auto;">
-      <div style="font-size:2.1em; font-weight:700; line-height:1.25; margin-bottom:0.45rem;">
-        Detecting aberrant DNA methylation in Illumina DNA methylation arrays: a toolbox and recommendations for its use
+      <div style="text-align:center; max-width:1000px; margin:0 auto 3rem auto;">
+        <div style="font-size:2.1em; font-weight:700; line-height:1.25; margin-bottom:0.45rem;">
+          Detecting aberrant DNA methylation in Illumina DNA methylation arrays: a toolbox and recommendations for its use
+        </div>
+        <div style="font-size:1.2em; font-weight:600; margin-bottom:0.25rem;">
+          Epigenetics
+        </div>
+        <div style="font-size:1.05em; margin-bottom:0.9rem;">
+          2023
+        </div>
+        <div style="font-size:1.05em; line-height:1.6;">
+          PMID: <a href="https://pubmed.ncbi.nlm.nih.gov/37218167/">37218167</a>
+        </div>
       </div>
-      <div style="font-size:1.2em; font-weight:600; margin-bottom:0.25rem;">
-        Epigenetics
-      </div>
-      <div style="font-size:1.05em; margin-bottom:0.9rem;">
-        2023
-      </div>
-      <div style="font-size:1.05em; line-height:1.6;">
-        PMID: <a href="https://pubmed.ncbi.nlm.nih.gov/37218167/">37218167</a>
-      </div>
-    </div>
 
-    <div style="text-align:center; max-width:1000px; margin:0 auto 3rem auto;">
-      <div style="font-size:2.1em; font-weight:700; line-height:1.25; margin-bottom:0.45rem;">
-        Transcription factor expression repertoire basis for epigenetic and transcriptional subtypes of colorectal cancers
+      <div style="text-align:center; max-width:1000px; margin:0 auto 3rem auto;">
+        <div style="font-size:2.1em; font-weight:700; line-height:1.25; margin-bottom:0.45rem;">
+          Transcription factor expression repertoire basis for epigenetic and transcriptional subtypes of colorectal cancers
+        </div>
+        <div style="font-size:1.2em; font-weight:600; margin-bottom:0.25rem;">
+          Proceedings of the National Academy of Sciences USA
+        </div>
+        <div style="font-size:1.05em; margin-bottom:0.9rem;">
+          2023
+        </div>
+        <div style="font-size:1.05em; line-height:1.6;">
+          PMID: <a href="https://pubmed.ncbi.nlm.nih.gov/37487069/">37487069</a>
+        </div>
       </div>
-      <div style="font-size:1.2em; font-weight:600; margin-bottom:0.25rem;">
-        Proceedings of the National Academy of Sciences USA
-      </div>
-      <div style="font-size:1.05em; margin-bottom:0.9rem;">
-        2023
-      </div>
-      <div style="font-size:1.05em; line-height:1.6;">
-        PMID: <a href="https://pubmed.ncbi.nlm.nih.gov/37487069/">37487069</a>
-      </div>
-    </div>
 
-    <div style="text-align:center; max-width:1000px; margin:0 auto;">
-      <div style="font-size:1.3em; font-weight:600; margin-bottom:0.6rem;">
-        Full Publication List
+      <div style="text-align:center; max-width:1000px; margin:0 auto;">
+        <div style="font-size:1.3em; font-weight:600; margin-bottom:0.6rem;">
+          Full Publication List
+        </div>
+        <div style="font-size:1.05em; line-height:1.6;">
+          Additional publications are available via my
+          <a href="https://www.ncbi.nlm.nih.gov/sites/myncbi/YOUR-LINK-HERE/public/">PubMed My Bibliography</a>.
+        </div>
       </div>
-      <div style="font-size:1.05em; line-height:1.6;">
-        Additional publications are available via my
-        <a href="https://www.ncbi.nlm.nih.gov/sites/myncbi/YOUR-LINK-HERE/public/">PubMed My Bibliography</a>.
-      </div>
-    </div>
 
   - title: Selected Presentations
     layout: list
