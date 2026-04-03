@@ -23,7 +23,7 @@ orcid_username: 0009-0001-6533-2415
 additional_links:
   - title: CV (PDF)
     icon: fas fa-file-pdf
-    url: /cv/Thursby_CV.pdf
+    url: cv/Thursby_CV.pdf
 
 # About Section
 about_profile_image: images/profile.jpg
@@ -45,275 +45,241 @@ content:
         description: |
           <table style="width:100%; border-collapse:collapse;">
             <tr>
-              <td style="width:50%; padding:0.55rem 1.75rem 0.55rem 0; vertical-align:top; font-size:1.15em; line-height:1.55;">&bull; WGBS</td>
-              <td style="width:50%; padding:0.55rem 0; vertical-align:top; font-size:1.15em; line-height:1.55;">&bull; Bash</td>
+              <td style="width:50%; padding:0.5rem 1.5rem 0.5rem 0; vertical-align:top; font-size:1.15em; line-height:1.5;">&bull; WGBS</td>
+              <td style="width:50%; padding:0.5rem 0; vertical-align:top; font-size:1.15em; line-height:1.5;">&bull; Bash</td>
             </tr>
             <tr>
-              <td style="padding:0.55rem 1.75rem 0.55rem 0; vertical-align:top; font-size:1.15em; line-height:1.55;">&bull; Single-cell RNA-seq</td>
-              <td style="padding:0.55rem 0; vertical-align:top; font-size:1.15em; line-height:1.55;">&bull; Python</td>
+              <td style="padding:0.5rem 1.5rem 0.5rem 0; vertical-align:top; font-size:1.15em; line-height:1.5;">&bull; Single-cell RNA-seq</td>
+              <td style="padding:0.5rem 0; vertical-align:top; font-size:1.15em; line-height:1.5;">&bull; Python</td>
             </tr>
             <tr>
-              <td style="padding:0.55rem 1.75rem 0.55rem 0; vertical-align:top; font-size:1.15em; line-height:1.55;">&bull; Bulk RNA-seq</td>
-              <td style="padding:0.55rem 0; vertical-align:top; font-size:1.15em; line-height:1.55;">&bull; Java</td>
+              <td style="padding:0.5rem 1.5rem 0.5rem 0; vertical-align:top; font-size:1.15em; line-height:1.5;">&bull; Bulk RNA-seq</td>
+              <td style="padding:0.5rem 0; vertical-align:top; font-size:1.15em; line-height:1.5;">&bull; Java</td>
             </tr>
             <tr>
-              <td style="padding:0.55rem 1.75rem 0.55rem 0; vertical-align:top; font-size:1.15em; line-height:1.55;">&bull; ChIP-seq / ATAC-seq</td>
-              <td style="padding:0.55rem 0; vertical-align:top; font-size:1.15em; line-height:1.55;">&bull; HTML / PHP / MySQL</td>
+              <td style="padding:0.5rem 1.5rem 0.5rem 0; vertical-align:top; font-size:1.15em; line-height:1.5;">&bull; ChIP-seq / ATAC-seq</td>
+              <td style="padding:0.5rem 0; vertical-align:top; font-size:1.15em; line-height:1.5;">&bull; HTML / PHP / MySQL</td>
             </tr>
             <tr>
-              <td style="padding:0.55rem 1.75rem 0.55rem 0; vertical-align:top; font-size:1.15em; line-height:1.55;">&bull; Multi-omics integration</td>
-              <td style="padding:0.55rem 0; vertical-align:top; font-size:1.15em; line-height:1.55;">&bull; R / AWS</td>
+              <td style="padding:0.5rem 1.5rem 0.5rem 0; vertical-align:top; font-size:1.15em; line-height:1.5;">&bull; Multi-omics integration</td>
+              <td style="padding:0.5rem 0; vertical-align:top; font-size:1.15em; line-height:1.5;">&bull; R / AWS</td>
             </tr>
             <tr>
-              <td style="padding:0.55rem 1.75rem 0.55rem 0; vertical-align:top; font-size:1.15em; line-height:1.55;">&bull; Translational bioinformatics</td>
-              <td style="padding:0.55rem 0; vertical-align:top; font-size:1.15em; line-height:1.55;">&bull; HPC: SLURM / PBS</td>
+              <td style="padding:0.5rem 1.5rem 0.5rem 0; vertical-align:top; font-size:1.15em; line-height:1.5;">&bull; Translational bioinformatics</td>
+              <td style="padding:0.5rem 0; vertical-align:top; font-size:1.15em; line-height:1.5;">&bull; HPC: SLURM / PBS</td>
             </tr>
           </table>
 
   - title: Selected Publications
     layout: text
     content: |
-      <div style="text-align:center; max-width:1000px; margin:0 auto 3rem auto;">
-        <div style="font-size:2.1em; font-weight:700; line-height:1.25; margin-bottom:0.45rem;">
+      <div style="text-align:center; max-width:1000px; margin:0 auto 2.1rem auto;">
+        <div style="font-size:2.05em; font-weight:700; line-height:1.2; margin-bottom:0.35rem;">
           Epigenetic Instability Based Metrics in Cell-Free DNA for Early Cancer Detection
         </div>
-        <div style="font-size:1.2em; font-weight:600; margin-bottom:0.25rem;">
+        <div style="font-size:1.35em; font-weight:600; margin-bottom:0.2rem;">
           Clinical Cancer Research
         </div>
-        <div style="font-size:1.05em; margin-bottom:0.9rem;">
+        <div style="font-size:1.2em; margin-bottom:0.7rem;">
           2026
         </div>
-        <div style="font-size:1.05em; line-height:1.6;">
-          DOI: <a href="https://doi.org/10.1158/1078-0432.CCR-25-3384">10.1158/1078-0432.CCR-25-3384</a><br>
+        <div style="font-size:1.2em; line-height:1.5;">
           PMID: <a href="https://pubmed.ncbi.nlm.nih.gov/41591979/">41591979</a>
         </div>
       </div>
 
-      <div style="text-align:center; max-width:1000px; margin:0 auto 3rem auto;">
-        <div style="font-size:2.1em; font-weight:700; line-height:1.25; margin-bottom:0.45rem;">
+      <div style="text-align:center; max-width:1000px; margin:0 auto 2.1rem auto;">
+        <div style="font-size:2.05em; font-weight:700; line-height:1.2; margin-bottom:0.35rem;">
           Tissue-location-specific transcription programs drive tumor dependencies in colon cancer
         </div>
-        <div style="font-size:1.2em; font-weight:600; margin-bottom:0.25rem;">
+        <div style="font-size:1.35em; font-weight:600; margin-bottom:0.2rem;">
           Nature Communications
         </div>
-        <div style="font-size:1.05em; margin-bottom:0.9rem;">
+        <div style="font-size:1.2em; margin-bottom:0.7rem;">
           2024
         </div>
-        <div style="font-size:1.05em; line-height:1.6;">
+        <div style="font-size:1.2em; line-height:1.5;">
           PMID: <a href="https://pubmed.ncbi.nlm.nih.gov/38360902/">38360902</a>
         </div>
       </div>
 
-      <div style="text-align:center; max-width:1000px; margin:0 auto 3rem auto;">
-        <div style="font-size:2.1em; font-weight:700; line-height:1.25; margin-bottom:0.45rem;">
+      <div style="text-align:center; max-width:1000px; margin:0 auto 2.1rem auto;">
+        <div style="font-size:2.05em; font-weight:700; line-height:1.2; margin-bottom:0.35rem;">
           Detecting aberrant DNA methylation in Illumina DNA methylation arrays: a toolbox and recommendations for its use
         </div>
-        <div style="font-size:1.2em; font-weight:600; margin-bottom:0.25rem;">
+        <div style="font-size:1.35em; font-weight:600; margin-bottom:0.2rem;">
           Epigenetics
         </div>
-        <div style="font-size:1.05em; margin-bottom:0.9rem;">
+        <div style="font-size:1.2em; margin-bottom:0.7rem;">
           2023
         </div>
-        <div style="font-size:1.05em; line-height:1.6;">
+        <div style="font-size:1.2em; line-height:1.5;">
           PMID: <a href="https://pubmed.ncbi.nlm.nih.gov/37218167/">37218167</a>
         </div>
       </div>
 
-      <div style="text-align:center; max-width:1000px; margin:0 auto 3rem auto;">
-        <div style="font-size:2.1em; font-weight:700; line-height:1.25; margin-bottom:0.45rem;">
+      <div style="text-align:center; max-width:1000px; margin:0 auto 2.1rem auto;">
+        <div style="font-size:2.05em; font-weight:700; line-height:1.2; margin-bottom:0.35rem;">
           Transcription factor expression repertoire basis for epigenetic and transcriptional subtypes of colorectal cancers
         </div>
-        <div style="font-size:1.2em; font-weight:600; margin-bottom:0.25rem;">
+        <div style="font-size:1.35em; font-weight:600; margin-bottom:0.2rem;">
           Proceedings of the National Academy of Sciences USA
         </div>
-        <div style="font-size:1.05em; margin-bottom:0.9rem;">
+        <div style="font-size:1.2em; margin-bottom:0.7rem;">
           2023
         </div>
-        <div style="font-size:1.05em; line-height:1.6;">
+        <div style="font-size:1.2em; line-height:1.5;">
           PMID: <a href="https://pubmed.ncbi.nlm.nih.gov/37487069/">37487069</a>
         </div>
       </div>
 
       <div style="text-align:center; max-width:1000px; margin:0 auto;">
-        <div style="font-size:1.3em; font-weight:600; margin-bottom:0.6rem;">
+        <div style="font-size:1.4em; font-weight:600; margin-bottom:0.55rem;">
           Full Publication List
         </div>
-        <div style="font-size:1.05em; line-height:1.6;">
+        <div style="font-size:1.15em; line-height:1.5;">
           Additional publications are available via my
-          <a href="https://www.ncbi.nlm.nih.gov/sites/myncbi/YOUR-LINK-HERE/public/">PubMed My Bibliography</a>.
+          <a href="https://www.ncbi.nlm.nih.gov/sites/myncbi/sara-jayne.thursby.2/public/">PubMed My Bibliography</a>.
         </div>
       </div>
 
   - title: Selected Presentations
-    layout: list
-    content:
-      - layout: left
-        title: ""
-        description: |
-          <div style="text-align:center; width:100%; margin:0 auto;">
-            <div style="font-size:1.8em; font-weight:700; line-height:1.3; margin-bottom:0.35rem;">
-              AACR Annual Meeting
-            </div>
-            <div style="font-size:1.1em; font-weight:600; margin-bottom:0.25rem;">
-              Oral Presentation
-            </div>
-            <div style="font-size:1.0em; line-height:1.5;">
-              2026
-            </div>
-          </div>
+    layout: text
+    content: |
+      <div style="text-align:center; max-width:1000px; margin:0 auto 2.1rem auto;">
+        <div style="font-size:1.95em; font-weight:700; line-height:1.22; margin-bottom:0.3rem;">
+          AACR Annual Meeting
+        </div>
+        <div style="font-size:1.3em; font-weight:600; margin-bottom:0.2rem;">
+          Oral Presentation
+        </div>
+        <div style="font-size:1.2em; line-height:1.45;">
+          2026
+        </div>
+      </div>
 
-      - layout: left
-        title: ""
-        description: |
-          <div style="text-align:center; width:100%; margin:0 auto;">
-            <div style="font-size:1.8em; font-weight:700; line-height:1.3; margin-bottom:0.35rem;">
-              AACR DNA Methylation, Clonal Hematopoiesis and Cancer Conference
-            </div>
-            <div style="font-size:1.1em; font-weight:600; margin-bottom:0.25rem;">
-              Oral and Poster Presentation
-            </div>
-            <div style="font-size:1.0em; line-height:1.5;">
-              2025
-            </div>
-          </div>
+      <div style="text-align:center; max-width:1000px; margin:0 auto 2.1rem auto;">
+        <div style="font-size:1.95em; font-weight:700; line-height:1.22; margin-bottom:0.3rem;">
+          AACR DNA Methylation, Clonal Hematopoiesis and Cancer Conference
+        </div>
+        <div style="font-size:1.3em; font-weight:600; margin-bottom:0.2rem;">
+          Oral and Poster Presentation
+        </div>
+        <div style="font-size:1.2em; line-height:1.45;">
+          2025
+        </div>
+      </div>
 
-      - layout: left
-        title: ""
-        description: |
-          <div style="text-align:center; width:100%; margin:0 auto;">
-            <div style="font-size:1.8em; font-weight:700; line-height:1.3; margin-bottom:0.35rem;">
-              American Association for Cancer Research
-            </div>
-            <div style="font-size:1.1em; font-weight:600; margin-bottom:0.25rem;">
-              Poster Presentation
-            </div>
-            <div style="font-size:1.0em; line-height:1.5;">
-              2024
-            </div>
-          </div>
+      <div style="text-align:center; max-width:1000px; margin:0 auto 2.1rem auto;">
+        <div style="font-size:1.95em; font-weight:700; line-height:1.22; margin-bottom:0.3rem;">
+          American Association for Cancer Research
+        </div>
+        <div style="font-size:1.3em; font-weight:600; margin-bottom:0.2rem;">
+          Poster Presentation
+        </div>
+        <div style="font-size:1.2em; line-height:1.45;">
+          2024
+        </div>
+      </div>
 
-      - layout: left
-        title: ""
-        description: |
-          <div style="text-align:center; width:100%; margin:0 auto;">
-            <div style="font-size:1.8em; font-weight:700; line-height:1.3; margin-bottom:0.35rem;">
-              Epigenetics in Health and Disease Workshop
-            </div>
-            <div style="font-size:1.1em; font-weight:600; margin-bottom:0.25rem;">
-              Oral Presentation
-            </div>
-            <div style="font-size:1.0em; line-height:1.5;">
-              2019
-            </div>
-          </div>
+      <div style="text-align:center; max-width:1000px; margin:0 auto 2.1rem auto;">
+        <div style="font-size:1.95em; font-weight:700; line-height:1.22; margin-bottom:0.3rem;">
+          Epigenetics in Health and Disease Workshop
+        </div>
+        <div style="font-size:1.3em; font-weight:600; margin-bottom:0.2rem;">
+          Oral Presentation
+        </div>
+        <div style="font-size:1.2em; line-height:1.45;">
+          2019
+        </div>
+      </div>
 
-      - layout: left
-        title: ""
-        description: |
-          <div style="text-align:center; width:100%; margin:0 auto;">
-            <div style="font-size:1.8em; font-weight:700; line-height:1.3; margin-bottom:0.35rem;">
-              Galaxy Community and Open-Source Bioinformatics Conference
-            </div>
-            <div style="font-size:1.1em; font-weight:600; margin-bottom:0.25rem;">
-              Oral and Poster Presentation
-            </div>
-            <div style="font-size:1.0em; line-height:1.5;">
-              2018
-            </div>
-          </div>
+      <div style="text-align:center; max-width:1000px; margin:0 auto 2.1rem auto;">
+        <div style="font-size:1.95em; font-weight:700; line-height:1.22; margin-bottom:0.3rem;">
+          Galaxy Community and Open-Source Bioinformatics Conference
+        </div>
+        <div style="font-size:1.3em; font-weight:600; margin-bottom:0.2rem;">
+          Oral and Poster Presentation
+        </div>
+        <div style="font-size:1.2em; line-height:1.45;">
+          2018
+        </div>
+      </div>
 
-      - layout: left
-        title: ""
-        description: |
-          <div style="text-align:center; width:100%; margin:0 auto;">
-            <div style="font-size:1.8em; font-weight:700; line-height:1.3; margin-bottom:0.35rem;">
-              European Alliance for Personalized Medicine
-            </div>
-            <div style="font-size:1.1em; font-weight:600; margin-bottom:0.25rem;">
-              Poster Presentation
-            </div>
-            <div style="font-size:1.0em; line-height:1.5;">
-              2018
-            </div>
-          </div>
+      <div style="text-align:center; max-width:1000px; margin:0 auto;">
+        <div style="font-size:1.95em; font-weight:700; line-height:1.22; margin-bottom:0.3rem;">
+          European Alliance for Personalized Medicine
+        </div>
+        <div style="font-size:1.3em; font-weight:600; margin-bottom:0.2rem;">
+          Poster Presentation
+        </div>
+        <div style="font-size:1.2em; line-height:1.45;">
+          2018
+        </div>
+      </div>
 
   - title: Awards, Grants & Travel Support
-    layout: list
-    content:
-      - layout: left
-        title: ""
-        description: |
-          <div style="text-align:center; width:100%; margin:0 auto;">
-            <div style="font-size:1.7em; font-weight:700; line-height:1.3; margin-bottom:0.35rem;">
-              AACR General Meeting Barbara Campbell Creighton Scholar-in-Training Award
-            </div>
-            <div style="font-size:1.05em; margin-bottom:0.25rem;">
-              2026
-            </div>
-            <div style="font-size:1.05em; line-height:1.5;">
-              $1,500
-            </div>
-          </div>
+    layout: text
+    content: |
+      <div style="text-align:center; max-width:1000px; margin:0 auto 2.1rem auto;">
+        <div style="font-size:1.95em; font-weight:700; line-height:1.22; margin-bottom:0.3rem;">
+          AACR General Meeting Barbara Campbell Creighton Scholar-in-Training Award
+        </div>
+        <div style="font-size:1.2em; margin-bottom:0.2rem;">
+          2026
+        </div>
+        <div style="font-size:1.2em; line-height:1.45;">
+          $1,500
+        </div>
+      </div>
 
-      - layout: left
-        title: ""
-        description: |
-          <div style="text-align:center; width:100%; margin:0 auto;">
-            <div style="font-size:1.7em; font-weight:700; line-height:1.3; margin-bottom:0.35rem;">
-              Johns Hopkins Office for Cancer Research Training and Education Coordination Travel Award
-            </div>
-            <div style="font-size:1.05em; margin-bottom:0.25rem;">
-              2025
-            </div>
-            <div style="font-size:1.05em; line-height:1.5;">
-              $750
-            </div>
-          </div>
+      <div style="text-align:center; max-width:1000px; margin:0 auto 2.1rem auto;">
+        <div style="font-size:1.95em; font-weight:700; line-height:1.22; margin-bottom:0.3rem;">
+          Johns Hopkins Office for Cancer Research Training and Education Coordination Travel Award
+        </div>
+        <div style="font-size:1.2em; margin-bottom:0.2rem;">
+          2025
+        </div>
+        <div style="font-size:1.2em; line-height:1.45;">
+          $750
+        </div>
+      </div>
 
-      - layout: left
-        title: ""
-        description: |
-          <div style="text-align:center; width:100%; margin:0 auto;">
-            <div style="font-size:1.7em; font-weight:700; line-height:1.3; margin-bottom:0.35rem;">
-              AACR Scholar-in-Training Award
-            </div>
-            <div style="font-size:1.05em; margin-bottom:0.25rem;">
-              2025
-            </div>
-            <div style="font-size:1.05em; line-height:1.5;">
-              $500
-            </div>
-          </div>
+      <div style="text-align:center; max-width:1000px; margin:0 auto 2.1rem auto;">
+        <div style="font-size:1.95em; font-weight:700; line-height:1.22; margin-bottom:0.3rem;">
+          AACR Scholar-in-Training Award
+        </div>
+        <div style="font-size:1.2em; margin-bottom:0.2rem;">
+          2025
+        </div>
+        <div style="font-size:1.2em; line-height:1.45;">
+          $500
+        </div>
+      </div>
 
-      - layout: left
-        title: ""
-        description: |
-          <div style="text-align:center; width:100%; margin:0 auto;">
-            <div style="font-size:1.7em; font-weight:700; line-height:1.3; margin-bottom:0.35rem;">
-              Galaxy Community Fellowship Award
-            </div>
-            <div style="font-size:1.05em; margin-bottom:0.25rem;">
-              2018
-            </div>
-            <div style="font-size:1.05em; line-height:1.5;">
-              £1,600
-            </div>
-          </div>
+      <div style="text-align:center; max-width:1000px; margin:0 auto 2.1rem auto;">
+        <div style="font-size:1.95em; font-weight:700; line-height:1.22; margin-bottom:0.3rem;">
+          Galaxy Community Fellowship Award
+        </div>
+        <div style="font-size:1.2em; margin-bottom:0.2rem;">
+          2018
+        </div>
+        <div style="font-size:1.2em; line-height:1.45;">
+          £1,600
+        </div>
+      </div>
 
-      - layout: left
-        title: ""
-        description: |
-          <div style="text-align:center; width:100%; margin:0 auto;">
-            <div style="font-size:1.7em; font-weight:700; line-height:1.3; margin-bottom:0.35rem;">
-              Genetics Society Training Grant
-            </div>
-            <div style="font-size:1.05em; margin-bottom:0.25rem;">
-              2018
-            </div>
-            <div style="font-size:1.05em; line-height:1.5;">
-              £1,000
-            </div>
-          </div>
+      <div style="text-align:center; max-width:1000px; margin:0 auto;">
+        <div style="font-size:1.95em; font-weight:700; line-height:1.22; margin-bottom:0.3rem;">
+          Genetics Society Training Grant
+        </div>
+        <div style="font-size:1.2em; margin-bottom:0.2rem;">
+          2018
+        </div>
+        <div style="font-size:1.2em; line-height:1.45;">
+          £1,000
+        </div>
+      </div>
 
 # Footer
 footer_show_references: true
