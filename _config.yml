@@ -68,6 +68,14 @@ content:
               <td style="padding:0.5rem 1.5rem 0.5rem 0; vertical-align:top; font-size:1.15em; line-height:1.5;">&bull; Translational bioinformatics</td>
               <td style="padding:0.5rem 0; vertical-align:top; font-size:1.15em; line-height:1.5;">&bull; HPC: SLURM / PBS</td>
             </tr>
+            <tr>
+              <td style="padding:0.5rem 1.5rem 0.5rem 0; vertical-align:top; font-size:1.15em; line-height:1.5;">
+                &bull; End‑to‑end machine learning workflows for omics and cfDNA data (preprocessing, feature engineering, hyperparameter optimization, and model evaluation)
+              </td>
+              <td style="padding:0.5rem 0; vertical-align:top; font-size:1.15em; line-height:1.5;">
+                &bull; Machine learning for DNA methylation and multi‑omics biomarker development
+              </td>
+            </tr>
           </table>
 
   - title: Selected Publications
